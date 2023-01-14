@@ -1,0 +1,2 @@
+# typediff
+TypeScript type comparison
